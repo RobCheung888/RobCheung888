@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rob Cheung
+- 👀 I’m interested in Java, Deep Learning and Game developing. 
+- 🌱 I’m currently learning how to code in Swift and Xcode
